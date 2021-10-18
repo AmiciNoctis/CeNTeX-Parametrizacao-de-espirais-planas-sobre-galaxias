@@ -1,0 +1,56 @@
+% Encoding: UTF-8
+
+@Article{harrymead09,
+  author  = {Harry Ringermacher, Lawrence Mead},
+  title   = {A New Formula Describing the Scaffold Structure of Spiral Galaxies},
+  journal = {Monthly Notices of the Royal Astronomical Society},
+  year    = {2009},
+  volume  = {397},
+  number  = {1},
+  pages   = {164-171},
+}
+
+@Book{anton10,
+  author    = {Howard Anton, Irl Bivens, Stephen Davis},
+  title     = {"Calculo - Vol. I"},
+  year      = {2014},
+  edition   = {10 Ed},
+  publisher = {Bookman},
+}
+
+@Online{archi,
+  author = {Thomas Little Heath},
+  title  = {The Works of Archimedes},
+  year   = {1897},
+  url    = {https://archive.org/details/worksofarchimede029517mbp},
+  doi    = {10.2307/3604383},
+  issn   = {0025-5572},
+  pages  = {24},
+  volume = {7},
+}
+
+
+@ONLINE{wolf18,
+author = {Weisstein, Eric W.},
+title = {Archimedean Spiral},
+month = {Outubro},
+year = {2018},
+url = {http://mathworld.wolfram.com/ArchimedeanSpiral.html}
+}
+
+@Book{2019Icar..326...29M,
+  author    = {Keti Tenenblat},
+  title     = {Introdução à Geometria Diferencial},
+  year      = {2008},
+  volume    = {23},
+  edition   = {2},
+  publisher = {Blucher},
+  pages     = {29-36},
+  doi       = {10.11604/pamj.2016.23.174.7662},
+  abstract  = {},
+  issn      = {1937-8688},
+  journal   = {\icarus},
+  month     = jul,
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}
